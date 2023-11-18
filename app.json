@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "fashion feet app",
+    "slug": "client",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "splash": {
+      "image": "https://img.freepik.com/premium-vector/mobile-shoes-logo-template-design_316488-444.jpg",
+      "resizeMode": "contain"
+    }
+  }
+}
